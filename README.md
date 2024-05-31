@@ -1,5 +1,7 @@
 ## Running Locally
 
+Dataset in this project : https://www.kaggle.com/competitions/home-credit-default-risk
+
 Spin up all services.
 ```bash
 docker compose up -d
